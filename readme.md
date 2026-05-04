@@ -39,23 +39,28 @@
     <samp><b>✨ About Me & Projects</b></samp>
   </summary>
   <br>
-  <div>
-    <p style="text-align: left; max-width: 700px; margin: 0 auto;">
+  <div align="center">
+    <p>
       📚 4th-year Computer Engineering student at <a href="https://www.linkedin.com/school/universidad-simon-bolivar/">Simón Bolívar University</a><br>
       🧠 I enjoy technical problem-solving, structured thinking, and building systems that stay reliable under pressure<br>
       🌐 Languages: Spanish (native) • French (basic)
     </p>
 
-    <h4 style="text-align: center;">🚀 Featured Projects</h4>
-    <p style="text-align: left; max-width: 700px; margin: 0 auto;">
-      <b>USB Bank</b> — End-to-end banking database design with transaction integrity and automatic audit systems<br>
-      <b>Three.js Graphics</b> — 3D racing simulator with movement logic, camera handling, and interactive environments
-    </p>
+  <h4>🚀 Featured Projects</h4>
+  <p>
+    <b>USB Bank</b> — End-to-end banking database design with transaction integrity and automatic audit systems<br>
+    <b>Three.js Graphics</b> — 3D racing simulator with movement logic, camera handling, and interactive environments
+  </p>
 
-    <h4 style="text-align: center;">🎯 Strengths</h4>
-    <p style="text-align: left; max-width: 700px; margin: 0 auto;">
-      Advanced SQL • Database schema design • Linux environment management • Professional technical documentation
-    </p>
+  <h4>🎯 Strengths</h4>
+  <p>
+    Advanced SQL • Database schema design • Linux environment management • Professional technical documentation
+  </p>
+
+  <br>
+  <!-- GitHub Stats Cards - Replace [tu-usuario] with your actual GitHub username -->
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=[tu-usuario]&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=[tu-usuario]&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=[tu-usuario]&theme=nord_dark&utcOffset=-4) |
+  | :-: | :-: | :-: |
   </div>
 </details>
 
@@ -64,18 +69,18 @@
 ## 💻 Technical Stack
 
 <div align="center" style="display: inline_block"><br>
-  <img width="45" src="https://skillicons.dev/icons?i=python" alt="Python"/>
-  <img width="45" src="https://skillicons.dev/icons?i=c" alt="C"/>
-  <img width="45" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/>
-  <img width="45" src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
-  <img width="45" src="https://skillicons.dev/icons?i=git" alt="Git"/>
-  <img width="45" src="https://skillicons.dev/icons?i=latex" alt="LaTeX"/>
-  <img width="45" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
-  <img width="45" src="https://skillicons.dev/icons?i=markdown" alt="Markdown"/>
-  <img width="45" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin"/>
-  <img width="45" src="https://skillicons.dev/icons?i=java" alt="Java"/>
-  <img width="45" src="https://skillicons.dev/icons?i=ruby" alt="Ruby"/>
-  <img width="45" src="https://skillicons.dev/icons?i=haskell" alt="Haskell"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LaTeX.svg" alt="LaTeX"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Markdown-Dark.svg" alt="Markdown"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Dark.svg" alt="Kotlin"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby-Dark.svg" alt="Ruby"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Haskell-Dark.svg" alt="Haskell"/>
 </div>
 
 <br>
@@ -87,6 +92,7 @@
   <a href="mailto:r.valentinard@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff4fa3?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <!-- Add your other links here: LinkedIn, GitHub, etc. -->
 </div>
 
 <br>
@@ -96,6 +102,7 @@
     <samp>
       ♡ 
       <a href="https://github.com/[tu-usuario]">GitHub</a> ⊹
+      <a href="https://www.linkedin.com/in/[tu-perfil]">LinkedIn</a> ⊹
       <a href="mailto:r.valentinard@gmail.com">Email</a> 
       ♡
     </samp>
