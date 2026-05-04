@@ -12,12 +12,6 @@
   </samp>
 </div>
 
-<div align="center">
-  <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2F[tu-usuario]&s=21&c=ff4fa3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
-  </p> 
-</div>
-      
 <br>
 
 <div align="center">
@@ -39,28 +33,28 @@
     <samp><b>✨ About Me & Projects</b></samp>
   </summary>
   <br>
-  <div align="center">
+  <div align="left">
     <p>
       📚 4th-year Computer Engineering student at <a href="https://www.linkedin.com/school/universidad-simon-bolivar/">Simón Bolívar University</a><br>
       🧠 I enjoy technical problem-solving, structured thinking, and building systems that stay reliable under pressure<br>
       🌐 Languages: Spanish (native) • French (basic)
     </p>
 
-  <h4>🚀 Featured Projects</h4>
+  <div align="center">
+    <h4>💌 Featured Projects</h4>
+  </div>
   <p>
     <b>USB Bank</b> — End-to-end banking database design with transaction integrity and automatic audit systems<br>
     <b>Three.js Graphics</b> — 3D racing simulator with movement logic, camera handling, and interactive environments
   </p>
 
-  <h4>🎯 Strengths</h4>
+  <div align="center">
+    <h4>🎀 Strengths</h4>
+  </div>
   <p>
     Advanced SQL • Database schema design • Linux environment management • Professional technical documentation
   </p>
 
-  <br>
-  <!-- GitHub Stats Cards - Replace [tu-usuario] with your actual GitHub username -->
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=[tu-usuario]&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=[tu-usuario]&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=[tu-usuario]&theme=nord_dark&utcOffset=-4) |
-  | :-: | :-: | :-: |
   </div>
 </details>
 
@@ -74,12 +68,12 @@
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux"/>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LaTeX.svg" alt="LaTeX"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LaTeX-Dark.svg" alt="LaTeX"/>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript"/>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Markdown-Dark.svg" alt="Markdown"/>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Dark.svg" alt="Kotlin"/>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java"/>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby-Dark.svg" alt="Ruby"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg" alt="Ruby"/>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Haskell-Dark.svg" alt="Haskell"/>
 </div>
 
@@ -100,10 +94,9 @@
 <div align="center">
   <p>
     <samp>
-      ♡ 
-      <a href="https://github.com/[tu-usuario]">GitHub</a> ⊹
-      <a href="https://www.linkedin.com/in/[tu-perfil]">LinkedIn</a> ⊹
-      <a href="mailto:r.valentinard@gmail.com">Email</a> 
+      ♡
+      <a href="https://github.com/rvduque">GitHub</a> ⊹
+      <a href="mailto:r.valentinard@gmail.com">Email</a>
       ♡
     </samp>
   </p>
