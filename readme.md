@@ -75,6 +75,7 @@
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java"/>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg" alt="Ruby"/>
   <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Haskell-Dark.svg" alt="Haskell"/>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Haskell-Dark.svg" alt="R"/>
 </div>
 
 <br>
