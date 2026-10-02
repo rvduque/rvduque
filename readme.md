@@ -101,7 +101,7 @@
       ♡
     </samp>
   </p>
-  <p><small>Made with love, logic, and careful documentation 💻✨</small></p>
+  <p><small>Designed based on principles of engineering, logic, and detailed documentation 💻✨</small></p>
 </div>
 
 <br>
