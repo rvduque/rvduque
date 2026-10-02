@@ -37,7 +37,7 @@
     <p>
       📚 4th-year Computer Engineering student at <a href="https://www.linkedin.com/school/universidad-simon-bolivar/">Simón Bolívar University</a><br>
       🧠 I enjoy technical problem-solving, structured thinking, and building systems that stay reliable under pressure<br>
-      🌐 Languages: Spanish (native) • French (basic)
+      
     </p>
 
   <div align="center">
